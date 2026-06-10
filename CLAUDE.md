@@ -15,8 +15,7 @@ This is an LLM-maintained knowledge base on [YOUR TOPIC]. The LLM writes and mai
 - `wiki/concepts/` — Concept, strategy, and framework pages.
 - `wiki/entities/` — Entity pages (people, tools, organizations, products — whatever "things" exist in your domain).
 - `wiki/syntheses/` — Comparison tables, decision frameworks, cross-cutting analyses.
-- `wiki/journal/` — Research or session journal entries.
-- `wiki/presentations/` — Marp slide decks generated from wiki content.
+- `presentations/` (repo root, optional) — slides or other derived material. Keep anything that is not knowledge content OUT of `wiki/` — `wiki/` is the published document set.
 
 ## File Naming
 
